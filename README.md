@@ -1,6 +1,6 @@
 <!-- Profile Header GIF -->
 <p align="center">
-  < alt="Auraangel07 Bold Moves" width="360"/>
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" alt="Tech Vibes" width="360"/>
 </p>
 
 # 👑 Auraangel07
