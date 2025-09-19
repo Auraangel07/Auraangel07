@@ -9,17 +9,23 @@
   <img src="https://img.shields.io/badge/Ideathon%20Winner-%F0%9F%8E%89-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hackathon%20Hero-%F0%9F%94%A5-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Analyst-%F0%9F%92%AC-teal?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Adventurer-%F0%9F%A4%96-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Explorer-%F0%9F%A4%96-ff69b4?style=for-the-badge" />
 </p>
 
-> **“My code isn’t just functional—it glows. Welcome to the edge of data and sass.”**
+> **"Transforming raw data into glowing insights — with professionalism, precision, and just a hint of sass."**
 
 ---
 
-## 💫 Who Am I?
+## 💫 About Me
 
-Hi, I’m Angel—a computer science student, data analyst, and software engineering explorer with a passion for turning raw code into glowing, actionable insights.  
-I chase big ideas, break them down, and rebuild with flair and attitude.
+Hi, I’m Angel — a Computer Science student with a passion for data analytics, software engineering, and AI.  
+Driven by curiosity and the thrill of solving complex problems, I believe in blending technical mastery with creativity and bold ideas.
+
+- **Profession:** Data Analyst & CS Student
+- **Achievements:**  
+  🏆 Ideathon Winner  
+  🚀 Participant in the World’s Largest Low-Code Hackathon  
+- **Philosophy:** “Turn concepts into reality, and let insights shine.”
 
 ---
 
@@ -66,61 +72,57 @@ I chase big ideas, break them down, and rebuild with flair and attitude.
 
 ---
 
-## 🔥 Projects That Pop
+## 🌟 Featured Projects
 
 | ⭐ | Project | Description |
 |---|---------|-------------|
-| 🧲 | [Customer Churn Prediction (Telecom)](https://github.com/Auraangel07/Customer-Churn-Prediction-Telecom-) | Predicting churn—because I know when data is about to ghost you. |
+| 🧲 | [Customer Churn Prediction (Telecom)](https://github.com/Auraangel07/Customer-Churn-Prediction-Telecom-) | Predicting churn—empowering telecoms to retain their VIPs. |
 | 🪞 | Mirror Mind | Your reflection in code—where data meets intuition and gets a makeover. |
-| 🎯 | [Internship Task 8](https://github.com/Auraangel07/Internshiptask8) | Analytics meets sass—real world problems, solved with style. |
-| 🕵️‍♀️ | [Internship Task 7](https://github.com/Auraangel07/internshiptask7) | Data wrangling, analysis, and a splash of attitude. |
-| 🛡️ | [Internship Task 6](https://github.com/Auraangel07/internshiptask6) | Practical experiments, bold solutions, zero boredom. |
+| 🎯 | [Internship Task 8](https://github.com/Auraangel07/Internshiptask8) | Analytics meets action—real world problems, solved with clarity. |
+| 🕵️‍♀️ | [Internship Task 7](https://github.com/Auraangel07/internshiptask7) | Data wrangling and analysis, meticulously delivered. |
+| 🛡️ | [Internship Task 6](https://github.com/Auraangel07/internshiptask6) | Practical experiments, bold solutions, real impact. |
 
 ---
 
-## 😎 Why Me?
+## 📈 GitHub Stats
 
-- I don’t just analyze—I make data dramatic.
-- I code with flair. My dashboards sparkle. My AI models have personality.
-- My GitHub isn’t a portfolio. It’s a revolution.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Auraangel07&show_icons=true&theme=radical&count_private=true&hide=stars,issues" alt="Auraangel07's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Auraangel07&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Auraangel07&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Auraangel07&theme=radical&row=1&column=7" alt="Trophies" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Auraangel07&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
-## 🌈 Connect With Me
+## 🚀 Currently Leveling Up
+
+- Smarter dashboards with Python & Streamlit
+- Generative AI magic with Llama & Gemini
+- Advanced analytics with Power BI & Tableau
+- Prompt engineering for LLMs (my prompts deserve to win awards!)
+
+---
+
+## 💡 Fun Facts
+
+- My IDE is probably sassier than yours.
+- I code with one hand, coffee in the other.
+- I make data talk—and sometimes it sings.
+- Ideathon wins, hackathon records, and always a good plot twist (in code and in life).
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/angel-suri-89a01a278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-Angel%20Suri-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
-
----
-
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Auraangel07&show_icons=true&theme=radical" alt="Auraangel07's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Auraangel07&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Auraangel07&theme=radical" alt="Profile Details" />
-</p>
-
----
-
-## ⚡ Currently Learning
-
-- Building smarter dashboards with Python & Streamlit
-- Unleashing generative AI with Llama & Gemini
-- Next-level analytics with Power BI & Tableau
-- Prompt engineering for LLMs (because my prompts deserve to shine)
-
----
-
-## 🦄 Fun Facts
-
-- My IDE is probably sassier than yours.
-- I code with one hand, coffee in the other.
-- I make data talk, and sometimes it sings.
-- I win ideathons, I break hackathon records, and I love a good plot twist—in code or in life.
 
 <!-- Sassy GIF Footer -->
 <p align="center">
@@ -132,9 +134,3 @@ I chase big ideas, break them down, and rebuild with flair and attitude.
 > “Ready for the next bold move? So am I. Let’s build, break, and rebuild—until data glows.”
 
 ---
-
-<!-- Visitor Counter Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Auraangel07&style=for-the-badge" alt="Profile Views"/>
-</p>
-
