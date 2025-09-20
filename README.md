@@ -2,11 +2,13 @@
   <img src="https://github.com/Auraangel07/Auraangel07/blob/main/assets/Angel%20Suri%20(1).png?raw=true" width="100%" height="170px" alt="Angel Suri Banner"/>
 </p>
 
+<h1 align="center" style="color:#FFD700; font-family:Georgia;">Auraangel07</h1>
+
 <p align="center">
   <img src="https://github.com/Auraangel07/Auraangel07/blob/main/assets/elegant_octocat.png?raw=true" width="170px" alt="Elegant Octocat" />
+  <br>
+  <i style="color:#B33A3A;">Elegant Octocat: always dressed for success, always ready for a bold code move.</i>
 </p>
-
-<h1 align="center" style="color:#FFD700; font-family:Georgia;">Auraangel07</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DATA%20ALCHEMY-181818?style=for-the-badge&logo=data&logoColor=FFD700" />
@@ -27,8 +29,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=181818" title="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-B33A3A?style=for-the-badge&logo=javascript&logoColor=FFD700" title="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&logo=typescript&logoColor=FFD700" title="TypeScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-B33A3A?style=for-the-badge&logo=typescript&logoColor=FFD700" title="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=FFD700" title="JavaScript"/>
   <img src="https://img.shields.io/badge/C++-50c878?style=for-the-badge&logo=cplusplus&logoColor=181818" title="C++"/>
   <img src="https://img.shields.io/badge/Java-f5f5dc?style=for-the-badge&logo=java&logoColor=B33A3A" title="Java"/>
   <img src="https://img.shields.io/badge/HTML5-B33A3A?style=for-the-badge&logo=html5&logoColor=FFD700" title="HTML5"/>
@@ -71,6 +73,18 @@
 ## <span style="color:#FFD700;">Featured Projects</span>
 
 <p align="center">
+  <a href="https://github.com/Auraangel07/Mindmirror">
+    <img src="https://img.shields.io/badge/MINDMIRROR-B33A3A?style=for-the-badge&logo=python&logoColor=FFD700" />
+  </a>
+  <br>
+  <i style="color:#50c878;">Enter the Interview Multiverse — face AI video agents in wild simulated worlds, unlock skills, and master interviews like a game.</i>
+</p>
+<p align="center">
+  <a href="https://github.com/Auraangel07/Parthvortex">
+    <img src="https://img.shields.io/badge/PARTHVORTEX-50c878?style=for-the-badge&logo=react&logoColor=181818" />
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/Auraangel07/Customer-Churn-Prediction-Telecom-">
     <img src="https://img.shields.io/badge/Customer%20Churn%20Prediction-B33A3A?style=for-the-badge&logo=python&logoColor=FFD700" />
   </a>
@@ -106,7 +120,9 @@
   I make data talk—and sometimes it sings.<br>
   Ideathon wins, hackathon records, and always a good plot twist (in code and in life).<br>
   <br>
-  <img src="https://github.com/Auraangel07/Auraangel07/blob/main/assets/elegant_octocat.png?raw=true" width="100px" alt="Octocat Fun Mascot" />
+  <img src="https://github.com/Auraangel07/Auraangel07/blob/main/assets/elegant_octocat.png?raw=true" width="100px" alt="Elegant Octocat Fun Mascot" />
+  <br>
+  <i style="color:#B33A3A;">Elegant Octocat: Forever classy, forever curious — always in style and always in code.</i>
 </p>
 
 <p align="center" style="color:#FFD700; font-size:1.5em;">━━━✧━━━</p>
@@ -125,5 +141,11 @@
 </p>
 
 <p align="center" style="margin-top:10px;"><i>Ready for the next bold move? So am I. Let’s build, break, and rebuild—until data glows.</i></p>
+
+<p align="center">
+  <img src="https://github.com/Auraangel07/Auraangel07/blob/main/assets/cute_octocat.png?raw=true" width="130px" alt="Cute Octocat" />
+  <br>
+  <i style="color:#50c878;">Cute Octocat: The playful sidekick—bringing good vibes, fresh ideas, and a little bit of magic to every repo.</i>
+</p>
 
 <p align="center" style="color:#FFD700;">━━━★━━━━</p>
