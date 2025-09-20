@@ -2,7 +2,7 @@
   <img src="https://github.com/Auraangel07/Auraangel07/blob/main/assets/Angel%20Suri%20(1).png?raw=true" width="100%" height="170px" alt="Angel Suri Banner"/>
 </p>
 
-<h1 align="center" style="color:#FFD700; font-family:Georgia;">Auraangel07</h1>
+<h1 align="center" style="color:#FFD700; font-family:Georgia;">Aura</h1>
 
 <p align="center">
   <img src="https://github.com/Auraangel07/Auraangel07/blob/main/assets/elegant_octocat.png?raw=true" width="170px" alt="Elegant Octocat" />
@@ -97,8 +97,6 @@
   <a href="https://github.com/Auraangel07/internshiptask6">
     <img src="https://img.shields.io/badge/Internship%20Task%206-f5f5dc?style=for-the-badge&logo=flask&logoColor=B33A3A" />
   </a>
-</p>
-<p align="center" style="color:#FFD700;"><b>Mirror Mind:</b> Code meets intuition for bold, beautiful results.</p>
 
 <p align="center" style="color:#FFD700; font-size:1.5em;">━━━✧━━━</p>
 
@@ -122,7 +120,6 @@
   <br>
   <img src="https://github.com/Auraangel07/Auraangel07/blob/main/assets/elegant_octocat.png?raw=true" width="100px" alt="Elegant Octocat Fun Mascot" />
   <br>
-  <i style="color:#B33A3A;">Elegant Octocat: Forever classy, forever curious — always in style and always in code.</i>
 </p>
 
 <p align="center" style="color:#FFD700; font-size:1.5em;">━━━✧━━━</p>
