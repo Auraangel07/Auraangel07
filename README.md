@@ -2,6 +2,10 @@
   <img src="https://github.com/Auraangel07/Auraangel07/blob/main/assets/Angel%20Suri%20(1).png?raw=true" width="100%" height="170px" alt="Angel Suri Banner"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/Auraangel07/Auraangel07/blob/main/assets/elegant_octocat.png?raw=true" width="170px" alt="Elegant Octocat" />
+</p>
+
 <h1 align="center" style="color:#FFD700; font-family:Georgia;">Auraangel07</h1>
 
 <p align="center">
@@ -57,6 +61,9 @@
   <img src="https://img.shields.io/badge/FastAPI-50c878?style=for-the-badge&logo=fastapi&logoColor=181818" title="FastAPI"/>
   <img src="https://img.shields.io/badge/GraphQL-f5f5dc?style=for-the-badge&logo=graphql&logoColor=B33A3A" title="GraphQL"/>
   <img src="https://img.shields.io/badge/Git-181818?style=for-the-badge&logo=git&logoColor=FFD700" title="Git"/>
+  <img src="https://img.shields.io/badge/Bootstrap-B33A3A?style=for-the-badge&logo=bootstrap&logoColor=FFD700" title="Bootstrap"/>
+  <img src="https://img.shields.io/badge/SASS-FFD700?style=for-the-badge&logo=sass&logoColor=181818" title="SASS"/>
+  <img src="https://img.shields.io/badge/Jupyter-50c878?style=for-the-badge&logo=jupyter&logoColor=181818" title="Jupyter"/>
 </p>
 
 <p align="center" style="color:#FFD700; font-size:1.5em;">━━━✧━━━</p>
@@ -93,10 +100,13 @@
 
 ## <span style="color:#FFD700;">Fun Facts</span>
 <p align="center" style="color:#FFD700;">
+  <b>Why do programmers prefer dark mode?</b> Because light attracts bugs! <br><br>
   My IDE is probably sassier than yours.<br>
   I code with one hand, coffee in the other.<br>
   I make data talk—and sometimes it sings.<br>
-  Ideathon wins, hackathon records, and always a good plot twist (in code and in life).
+  Ideathon wins, hackathon records, and always a good plot twist (in code and in life).<br>
+  <br>
+  <img src="https://github.com/Auraangel07/Auraangel07/blob/main/assets/elegant_octocat.png?raw=true" width="100px" alt="Octocat Fun Mascot" />
 </p>
 
 <p align="center" style="color:#FFD700; font-size:1.5em;">━━━✧━━━</p>
@@ -106,6 +116,14 @@
   <a href="https://www.linkedin.com/in/angel-suri-89a01a278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-181818?logo=linkedin&logoColor=FFD700&style=for-the-badge" />
   </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-B33A3A?logo=gmail&logoColor=FFD700&style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-50c878?logo=twitter&logoColor=181818&style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center" style="margin-top:10px;"><i>Ready for the next bold move? So am I. Let’s build, break, and rebuild—until data glows.</i></p>
+
+<p align="center" style="color:#FFD700;">━━━★━━━━</p>
