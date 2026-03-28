@@ -1,3 +1,5 @@
+<!-- <div>
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" width="100%" height="300px" alt="Gif" /></div> -->
 <p align="center">
   <img src="https://github.com/Auraangel07/Auraangel07/blob/main/assets/Angel%20Suri%20(1).png?raw=true" width="100%" height="170px" alt="Angel Suri Banner"/>
 </p>
