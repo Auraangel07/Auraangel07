@@ -102,10 +102,7 @@
 
 ## <span style="color:#FFD700;">GitHub Stats</span>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Auraangel07&show_icons=true&theme=gruvbox&count_private=true" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Auraangel07&theme=gruvbox" alt="GitHub streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Auraangel07&theme=gruvbox&row=1&column=7" alt="GitHub trophies" />
-  <img src="https://komarev.com/ghpvc/?username=Auraangel07&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center" style="color:#FFD700; font-size:1.5em;">━━━✧━━━</p>
