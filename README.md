@@ -128,7 +128,7 @@
   <a href="https://www.linkedin.com/in/angel-suri-89a01a278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-181818?logo=linkedin&logoColor=FFD700&style=for-the-badge" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:suriangel2547@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-B33A3A?logo=gmail&logoColor=FFD700&style=for-the-badge" />
   </a>
   <a href="https://twitter.com/yourusername">
