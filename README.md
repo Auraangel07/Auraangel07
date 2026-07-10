@@ -33,6 +33,7 @@
 
 <p align="center" style="color:#F6E7A6; font-size:1.5em;">✦ ✧ ✦</p>
 
+<!-- ================= ABSTRACT ================= -->
 <p align="center">
   <img src="https://img.shields.io/badge/ABSTRACT-0B1020?style=for-the-badge&logo=readthedocs&logoColor=F6E7A6" />
 </p>
@@ -48,41 +49,33 @@
 
 <p align="center" style="color:#F6E7A6; font-size:1.5em;">✦ ✧ ✦</p>
 
+<!-- ================= TOPICS (no table) ================= -->
 <p align="center">
   <img src="https://img.shields.io/badge/TOPICS-16213E?style=for-the-badge&logo=apachespark&logoColor=F6E7A6" />
 </p>
 
 <details open>
-  <summary><b style="color:#F6E7A6; font-size:1.15em;">TOPICS I’M WORKING ON</b></summary>
+  <summary><b style="color:#F6E7A6; font-size:1.15em;">TOPICS I'M WORKING ON</b></summary>
   <br>
-  <table align="center" style="width:100%; max-width:980px; border-collapse:separate; border-spacing:12px;">
-    <tr>
-      <td style="background:#0B1020; border:1px solid #22304A; border-radius:16px; padding:18px; text-align:center; color:#D8E1F2;">AI research</td>
-      <td style="background:#0B1020; border:1px solid #22304A; border-radius:16px; padding:18px; text-align:center; color:#D8E1F2;">Machine learning</td>
-      <td style="background:#0B1020; border:1px solid #22304A; border-radius:16px; padding:18px; text-align:center; color:#D8E1F2;">Data science</td>
-    </tr>
-    <tr>
-      <td style="background:#0B1020; border:1px solid #22304A; border-radius:16px; padding:18px; text-align:center; color:#F6E7A6; font-weight:900;">Research-driven experimentation</td>
-      <td style="background:#0B1020; border:1px solid #22304A; border-radius:16px; padding:18px; text-align:center; color:#8FB8FF; font-weight:900;">ME</td>
-      <td style="background:#0B1020; border:1px solid #22304A; border-radius:16px; padding:18px; text-align:center; color:#D8E1F2;">Pattern detection</td>
-    </tr>
-    <tr>
-      <td colspan="3" style="background:#0B1020; border:1px solid #22304A; border-radius:16px; padding:18px; text-align:center; color:#D8E1F2;">Full-stack development</td>
-    </tr>
-  </table>
 
-  <p align="center" style="max-width: 940px; margin: 10px auto 0; line-height: 2.1;">
-    <span style="display:inline-block; margin:5px; padding:10px 16px; border:1px solid #3A4A7A; border-radius:999px; background:#0B1020; color:#F6E7A6; font-weight:900;">AI research</span>
-    <span style="display:inline-block; margin:5px; padding:10px 16px; border:1px solid #3A4A7A; border-radius:999px; background:#0B1020; color:#F6E7A6; font-weight:900;">Machine learning</span>
-    <span style="display:inline-block; margin:5px; padding:10px 16px; border:1px solid #3A4A7A; border-radius:999px; background:#0B1020; color:#F6E7A6; font-weight:900;">Data science</span>
-    <span style="display:inline-block; margin:5px; padding:10px 16px; border:1px solid #3A4A7A; border-radius:999px; background:#0B1020; color:#F6E7A6; font-weight:900;">Full-stack development</span>
-    <span style="display:inline-block; margin:5px; padding:10px 16px; border:1px solid #3A4A7A; border-radius:999px; background:#0B1020; color:#F6E7A6; font-weight:900;">Research-driven experimentation</span>
-    <span style="display:inline-block; margin:5px; padding:10px 16px; border:1px solid #3A4A7A; border-radius:999px; background:#0B1020; color:#F6E7A6; font-weight:900;">Pattern detection</span>
+  <p align="center">
+    <img src="https://github.com/Auraangel07/Auraangel07/blob/main/assets/Gemini_Generated_Image_7vei9t7vei9t7vei-clean.png?raw=true" width="440px" style="border-radius:16px;" alt="Top Topics by Focus"/>
   </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/AI%20Research-0B1020?style=flat-square&logoColor=F6E7A6&labelColor=0B1020&color=16213E" />
+    <img src="https://img.shields.io/badge/Machine%20Learning-16213E?style=flat-square&color=1B2340" />
+    <img src="https://img.shields.io/badge/Data%20Science-1B2340?style=flat-square&color=22304A" />
+    <img src="https://img.shields.io/badge/Pattern%20Detection-22304A?style=flat-square&color=3A4A7A" />
+    <img src="https://img.shields.io/badge/Full--Stack%20Development-3A4A7A?style=flat-square&color=6D597A" />
+    <img src="https://img.shields.io/badge/Research--Driven%20Experimentation-6D597A?style=flat-square&color=4C3C7D" />
+  </p>
+
 </details>
 
 <p align="center" style="color:#F6E7A6; font-size:1.5em;">✦ ✧ ✦</p>
 
+<!-- ================= CURRENT WORKS ================= -->
 <p align="center">
   <img src="https://img.shields.io/badge/CURRENT%20WORKS-22304A?style=for-the-badge&logo=github&logoColor=F6E7A6" />
 </p>
@@ -90,32 +83,38 @@
 <details open>
   <summary><b style="color:#F6E7A6; font-size:1.15em;">CURRENT WORKS</b></summary>
   <br>
-  <table align="center" style="width:100%; max-width:980px; border-collapse:separate; border-spacing:12px;">
+
+  <table align="center" style="width:100%; max-width:980px; border-collapse:separate; border-spacing:16px;">
     <tr>
-      <th style="background:#0B1020; border:1px solid #22304A; border-radius:14px; padding:14px; color:#F6E7A6; font-size:1em;">Project / System</th>
-      <th style="background:#0B1020; border:1px solid #22304A; border-radius:14px; padding:14px; color:#F6E7A6; font-size:1em;">Focus</th>
-      <th style="background:#0B1020; border:1px solid #22304A; border-radius:14px; padding:14px; color:#F6E7A6; font-size:1em;">Signal</th>
-    </tr>
-    <tr>
-      <td style="background:#0B1020; border:1px solid #22304A; border-radius:14px; padding:14px; color:#D8E1F2;"><b style="color:#8FB8FF;">PATTERN ZERO</b></td>
-      <td style="background:#0B1020; border:1px solid #22304A; border-radius:14px; padding:14px; color:#D8E1F2;">Financial AI Research Ecosystem</td>
-      <td style="background:#0B1020; border:1px solid #22304A; border-radius:14px; padding:14px; color:#D8E1F2;">TimescaleDB · Redis · Airflow</td>
-    </tr>
-    <tr>
-      <td style="background:#0B1020; border:1px solid #22304A; border-radius:14px; padding:14px; color:#D8E1F2;"><b style="color:#8FB8FF;">INFLECTION</b></td>
-      <td style="background:#0B1020; border:1px solid #22304A; border-radius:14px; padding:14px; color:#D8E1F2;">Convergence Intelligence Engine</td>
-      <td style="background:#0B1020; border:1px solid #22304A; border-radius:14px; padding:14px; color:#D8E1F2;">Weak signals · market trend emergence</td>
-    </tr>
-    <tr>
-      <td style="background:#0B1020; border:1px solid #22304A; border-radius:14px; padding:14px; color:#D8E1F2;"><b style="color:#8FB8FF;">CLINICAL PLATFORM</b></td>
-      <td style="background:#0B1020; border:1px solid #22304A; border-radius:14px; padding:14px; color:#D8E1F2;">Multi-role research workflow system</td>
-      <td style="background:#0B1020; border:1px solid #22304A; border-radius:14px; padding:14px; color:#D8E1F2;">Next.js · RBAC · collaboration</td>
+      <td width="33%" style="background:#0B1020; border-radius:10px; padding:20px; vertical-align:top;">
+        <img src="https://img.shields.io/badge/PATTERN%20ZERO-3A4A7A?style=for-the-badge&logoColor=F6E7A6" /><br>
+        <div style="color:#8FB8FF; font-weight:700; margin:10px 0 14px 0; min-height:44px;">Financial AI Research Ecosystem</div>
+        <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/TimescaleDB-FDB813?style=flat-square&logoColor=black" />
+      </td>
+      <td width="33%" style="background:#0B1020; border-radius:10px; padding:20px; vertical-align:top;">
+        <img src="https://img.shields.io/badge/INFLECTION-6D597A?style=for-the-badge&logoColor=F6E7A6" /><br>
+        <div style="color:#8FB8FF; font-weight:700; margin:10px 0 14px 0; min-height:44px;">Convergence Intelligence Engine</div>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-7C5CBF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Time--Series-4A6FA5?style=flat-square" />
+      </td>
+      <td width="33%" style="background:#0B1020; border-radius:10px; padding:20px; vertical-align:top;">
+        <img src="https://img.shields.io/badge/CLINICAL%20PLATFORM-22304A?style=for-the-badge&logoColor=F6E7A6" /><br>
+        <div style="color:#8FB8FF; font-weight:700; margin:10px 0 14px 0; min-height:44px;">Multi-role research workflow system</div>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/RBAC-2CA9BC?style=flat-square" />
+      </td>
     </tr>
   </table>
+
 </details>
 
 <p align="center" style="color:#F6E7A6; font-size:1.5em;">✦ ✧ ✦</p>
 
+<!-- ================= METHODOLOGY ================= -->
 <p align="center">
   <img src="https://img.shields.io/badge/METHODOLOGY-0B1020?style=for-the-badge&logo=obsidian&logoColor=F6E7A6" />
 </p>
@@ -154,27 +153,50 @@
 
 <p align="center" style="color:#F6E7A6; font-size:1.5em;">✦ ✧ ✦</p>
 
+<!-- ================= ARCHIVE ================= -->
 <p align="center">
   <img src="https://img.shields.io/badge/ARCHIVE-16213E?style=for-the-badge&logo=archiveofourown&logoColor=F6E7A6" />
 </p>
 
-<details>
+<details open>
   <summary><b style="color:#F6E7A6; font-size:1.15em;">ARCHIVE / SHIPPED SYSTEMS</b></summary>
   <br>
-  <p align="center" style="max-width: 900px; margin: 0 auto; line-height: 1.8; color:#D8E1F2;">
-    <a href="https://github.com/Auraangel07/Mindmirror" style="text-decoration:none; color:#8FB8FF; font-weight:900;">MINDMIRROR ↗</a><br>
-    <i>AI-powered interview simulation platform · Video agents · Real-time ML feedback · Gamified skill development</i>
-  </p>
-  <br>
-  <p align="center" style="max-width: 900px; margin: 0 auto; line-height: 1.8; color:#D8E1F2;">
-    <a href="https://github.com/Auraangel07/Customer-Churn-Prediction-Telecom-" style="text-decoration:none; color:#8FB8FF; font-weight:900;">CRIS ↗</a><br>
-    <i>Customer Retention Intelligence System · XGBoost · 81.5% accuracy · 7,043 records · Power BI dashboard</i>
-  </p>
-  <br>
-  <p align="center" style="max-width: 900px; margin: 0 auto; line-height: 1.8; color:#D8E1F2;">
-    <a href="https://github.com/Auraangel07/Parthvortex" style="text-decoration:none; color:#8FB8FF; font-weight:900;">PATHVORTEXX ↗</a><br>
-    <i>Data navigation system · Python · Plotly · D3.js · Large-scale pattern recognition</i>
-  </p>
+
+  <table align="center" style="width:100%; max-width:980px; border-collapse:separate; border-spacing:16px;">
+    <tr>
+      <td width="33%" style="background:#0B1020; border-radius:10px; padding:20px; vertical-align:top;">
+        <img src="https://img.shields.io/badge/MODULE·01-1B2340?style=for-the-badge&logoColor=F6E7A6" /><br>
+        <a href="https://github.com/Auraangel07/Mindmirror"><img src="https://img.shields.io/badge/MINDMIRROR%20%E2%86%97-8FB8FF?style=flat-square&labelColor=0B1020" /></a>
+        <div style="min-height:56px; color:#D8E1F2; font-size:0.85em; line-height:1.6; margin:10px 0 14px 0;">
+          AI-powered interview simulation platform · Video agents · Real-time ML feedback · Gamified skill development
+        </div>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebRTC-0BA6A6?style=flat-square" />
+      </td>
+      <td width="33%" style="background:#0B1020; border-radius:10px; padding:20px; vertical-align:top;">
+        <img src="https://img.shields.io/badge/MODULE·02-3A4A7A?style=for-the-badge&logoColor=F6E7A6" /><br>
+        <a href="https://github.com/Auraangel07/Customer-Churn-Prediction-Telecom-"><img src="https://img.shields.io/badge/CRIS%20%E2%86%97-8FB8FF?style=flat-square&labelColor=0B1020" /></a>
+        <div style="min-height:56px; color:#D8E1F2; font-size:0.85em; line-height:1.6; margin:10px 0 14px 0;">
+          Customer Retention Intelligence System · 81.5% accuracy · 7,043 records · Power BI dashboard
+        </div>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/XGBoost-EC6B24?style=flat-square" />
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+      </td>
+      <td width="33%" style="background:#0B1020; border-radius:10px; padding:20px; vertical-align:top;">
+        <img src="https://img.shields.io/badge/MODULE·03-6D597A?style=for-the-badge&logoColor=F6E7A6" /><br>
+        <a href="https://github.com/Auraangel07/Parthvortex"><img src="https://img.shields.io/badge/PATHVORTEXX%20%E2%86%97-8FB8FF?style=flat-square&labelColor=0B1020" /></a>
+        <div style="min-height:56px; color:#D8E1F2; font-size:0.85em; line-height:1.6; margin:10px 0 14px 0;">
+          Data navigation system · Large-scale pattern recognition across dense graphs
+        </div>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+        <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+
 </details>
 
 <p align="center" style="color:#F6E7A6; font-size:1.5em;">✦ ✧ ✦</p>
