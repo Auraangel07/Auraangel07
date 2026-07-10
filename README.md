@@ -44,32 +44,32 @@
   <summary><b style="color:#FFD700;">// OPERATING FIELDS</b></summary>
   <br>
   <p align="center">
-    <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=181818" title="Python"/>
-    <img src="https://img.shields.io/badge/TypeScript-B33A3A?style=for-the-badge&logo=typescript&logoColor=FFD700" title="TypeScript"/>
-    <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=FFD700" title="JavaScript"/>
-    <img src="https://img.shields.io/badge/React-50c878?style=for-the-badge&logo=react&logoColor=181818" title="React"/>
-    <img src="https://img.shields.io/badge/Node.js-f5f5dc?style=for-the-badge&logo=nodedotjs&logoColor=B33A3A" title="Node.js"/>
-    <img src="https://img.shields.io/badge/Flask-FFD700?style=for-the-badge&logo=flask&logoColor=181818" title="Flask"/>
-    <img src="https://img.shields.io/badge/FastAPI-50c878?style=for-the-badge&logo=fastapi&logoColor=181818" title="FastAPI"/>
-    <img src="https://img.shields.io/badge/Django-B33A3A?style=for-the-badge&logo=django&logoColor=FFD700" title="Django"/>
-    <img src="https://img.shields.io/badge/Pandas-181818?style=for-the-badge&logo=pandas&logoColor=FFD700" title="Pandas"/>
-    <img src="https://img.shields.io/badge/Numpy-50c878?style=for-the-badge&logo=numpy&logoColor=181818" title="Numpy"/>
-    <img src="https://img.shields.io/badge/Scikit--Learn-f5f5dc?style=for-the-badge&logo=scikit-learn&logoColor=B33A3A" title="Scikit-learn"/>
-    <img src="https://img.shields.io/badge/TensorFlow-B33A3A?style=for-the-badge&logo=tensorflow&logoColor=FFD700" title="TensorFlow"/>
-    <img src="https://img.shields.io/badge/Keras-FFD700?style=for-the-badge&logo=keras&logoColor=181818" title="Keras"/>
-    <img src="https://img.shields.io/badge/OpenAI-181818?style=for-the-badge&logo=openai&logoColor=FFD700" title="OpenAI"/>
-    <img src="https://img.shields.io/badge/HuggingFace-f5f5dc?style=for-the-badge&logo=huggingface&logoColor=B33A3A" title="HuggingFace"/>
-    <img src="https://img.shields.io/badge/MongoDB-50c878?style=for-the-badge&logo=mongodb&logoColor=181818" title="MongoDB"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=181818" title="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/Redis-B33A3A?style=for-the-badge&logo=redis&logoColor=FFD700" title="Redis"/>
-    <img src="https://img.shields.io/badge/AWS-181818?style=for-the-badge&logo=amazonaws&logoColor=FFD700" title="AWS"/>
-    <img src="https://img.shields.io/badge/Docker-FFD700?style=for-the-badge&logo=docker&logoColor=181818" title="Docker"/>
-    <img src="https://img.shields.io/badge/Git-50c878?style=for-the-badge&logo=git&logoColor=181818" title="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-B33A3A?style=for-the-badge&logo=github&logoColor=FFD700" title="GitHub"/>
-    <img src="https://img.shields.io/badge/Streamlit-f5f5dc?style=for-the-badge&logo=streamlit&logoColor=B33A3A" title="Streamlit"/>
-    <img src="https://img.shields.io/badge/Power%20BI-181818?style=for-the-badge&logo=powerbi&logoColor=FFD700" title="Power BI"/>
-    <img src="https://img.shields.io/badge/Tableau-FFD700?style=for-the-badge&logo=tableau&logoColor=181818" title="Tableau"/>
-    <img src="https://img.shields.io/badge/Jupyter-50c878?style=for-the-badge&logo=jupyter&logoColor=181818" title="Jupyter"/>
+    <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=181818" title="Python" alt="Python"/>
+    <img src="https://img.shields.io/badge/TypeScript-B33A3A?style=for-the-badge&logo=typescript&logoColor=FFD700" title="TypeScript" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=FFD700" title="JavaScript" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/React-50c878?style=for-the-badge&logo=react&logoColor=181818" title="React" alt="React"/>
+    <img src="https://img.shields.io/badge/Node.js-f5f5dc?style=for-the-badge&logo=nodedotjs&logoColor=B33A3A" title="Node.js" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Flask-FFD700?style=for-the-badge&logo=flask&logoColor=181818" title="Flask" alt="Flask"/>
+    <img src="https://img.shields.io/badge/FastAPI-50c878?style=for-the-badge&logo=fastapi&logoColor=181818" title="FastAPI" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/Django-B33A3A?style=for-the-badge&logo=django&logoColor=FFD700" title="Django" alt="Django"/>
+    <img src="https://img.shields.io/badge/Pandas-181818?style=for-the-badge&logo=pandas&logoColor=FFD700" title="Pandas" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/Numpy-50c878?style=for-the-badge&logo=numpy&logoColor=181818" title="Numpy" alt="Numpy"/>
+    <img src="https://img.shields.io/badge/Scikit--Learn-f5f5dc?style=for-the-badge&logo=scikit-learn&logoColor=B33A3A" title="Scikit-learn" alt="Scikit-learn"/>
+    <img src="https://img.shields.io/badge/TensorFlow-B33A3A?style=for-the-badge&logo=tensorflow&logoColor=FFD700" title="TensorFlow" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/Keras-FFD700?style=for-the-badge&logo=keras&logoColor=181818" title="Keras" alt="Keras"/>
+    <img src="https://img.shields.io/badge/OpenAI-181818?style=for-the-badge&logo=openai&logoColor=FFD700" title="OpenAI" alt="OpenAI"/>
+    <img src="https://img.shields.io/badge/HuggingFace-f5f5dc?style=for-the-badge&logo=huggingface&logoColor=B33A3A" title="HuggingFace" alt="HuggingFace"/>
+    <img src="https://img.shields.io/badge/MongoDB-50c878?style=for-the-badge&logo=mongodb&logoColor=181818" title="MongoDB" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=181818" title="PostgreSQL" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Redis-B33A3A?style=for-the-badge&logo=redis&logoColor=FFD700" title="Redis" alt="Redis"/>
+    <img src="https://img.shields.io/badge/AWS-181818?style=for-the-badge&logo=amazonaws&logoColor=FFD700" title="AWS" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Docker-FFD700?style=for-the-badge&logo=docker&logoColor=181818" title="Docker" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Git-50c878?style=for-the-badge&logo=git&logoColor=181818" title="Git" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-B33A3A?style=for-the-badge&logo=github&logoColor=FFD700" title="GitHub" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Streamlit-f5f5dc?style=for-the-badge&logo=streamlit&logoColor=B33A3A" title="Streamlit" alt="Streamlit"/>
+    <img src="https://img.shields.io/badge/Power%20BI-181818?style=for-the-badge&logo=powerbi&logoColor=FFD700" title="Power BI" alt="Power BI"/>
+    <img src="https://img.shields.io/badge/Tableau-FFD700?style=for-the-badge&logo=tableau&logoColor=181818" title="Tableau" alt="Tableau"/>
+    <img src="https://img.shields.io/badge/Jupyter-50c878?style=for-the-badge&logo=jupyter&logoColor=181818" title="Jupyter" alt="Jupyter"/>
   </p>
 </details>
 
@@ -132,9 +132,6 @@
     </a>
     <a href="mailto:suriangel2547@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-B33A3A?logo=gmail&logoColor=FFD700&style=for-the-badge" />
-    </a>
-    <a href="https://twitter.com/yourusername">
-      <img src="https://img.shields.io/badge/Twitter-50c878?logo=twitter&logoColor=181818&style=for-the-badge" />
     </a>
   </p>
 </details>
