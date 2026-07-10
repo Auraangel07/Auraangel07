@@ -49,24 +49,30 @@
 
 <h2 align="center" style="color: #FFC72C; font-family: 'Georgia', serif;">Shipped Systems</h2>
 
-<p align="center" style="line-height: 2;">
-  <a href="https://github.com/Auraangel07/Mindmirror" style="text-decoration: none;">
-    <b style="color: #58A6FF; font-size: 1.1em;">MINDMIRROR ↗</b>
+<p align="center" style="margin-bottom: 24px;">
+  <a href="https://github.com/Auraangel07/Mindmirror" style="text-decoration: none; font-weight: bold; color: #58A6FF; font-size: 1.15em;">
+    MINDMIRROR ↗
   </a><br>
-  <span style="color: #C9D1D9;"><i>AI-powered interview simulation platform · Video agents · Real-time ML feedback · Gamified skill development</i></span><br><br>
+  <span style="color: #C9D1D9; font-size: 0.95em;"><i>AI-powered interview simulation platform · Video agents · Real-time ML feedback · Gamified skill development</i></span>
+</p>
 
-  <a href="https://github.com/Auraangel07/Customer-Churn-Prediction-Telecom-" style="text-decoration: none;">
-    <b style="color: #58A6FF; font-size: 1.1em;">CRIS ↗</b>
+<p align="center" style="margin-bottom: 24px;">
+  <a href="https://github.com/Auraangel07/Customer-Churn-Prediction-Telecom-" style="text-decoration: none; font-weight: bold; color: #58A6FF; font-size: 1.15em;">
+    CRIS ↗
   </a><br>
-  <span style="color: #C9D1D9;"><i>Customer Retention Intelligence System · XGBoost · 81.5% accuracy · 7,043 records · Power BI dashboard</i></span><br><br>
+  <span style="color: #C9D1D9; font-size: 0.95em;"><i>Customer Retention Intelligence System · XGBoost · 81.5% accuracy · 7,043 records · Power BI dashboard</i></span>
+</p>
 
-  <a href="https://github.com/Auraangel07/Parthvortex" style="text-decoration: none;">
-    <b style="color: #58A6FF; font-size: 1.1em;">PATHVORTEXX ↗</b>
+<p align="center" style="margin-bottom: 24px;">
+  <a href="https://github.com/Auraangel07/Parthvortex" style="text-decoration: none; font-weight: bold; color: #58A6FF; font-size: 1.15em;">
+    PATHVORTEXX ↗
   </a><br>
-  <span style="color: #C9D1D9;"><i>Data navigation system · Python · Plotly · D3.js · Large-scale pattern recognition</i></span><br><br>
+  <span style="color: #C9D1D9; font-size: 0.95em;"><i>Data navigation system · Python · Plotly · D3.js · Large-scale pattern recognition</i></span>
+</p>
 
-  <b style="color: #FF9E64; font-size: 1.1em;">CLINICAL ASSESSMENT PLATFORM</b><br>
-  <span style="color: #C9D1D9;"><i>Built @ NRSC · Next.js App Router · Multi-role portals · RBAC · Research staff collaboration</i></span>
+<p align="center" style="margin-bottom: 24px;">
+  <span style="font-weight: bold; color: #FF9E64; font-size: 1.15em;">CLINICAL ASSESSMENT PLATFORM</span><br>
+  <span style="color: #C9D1D9; font-size: 0.95em;"><i>Built @ NRSC · Next.js App Router · Multi-role portals · RBAC · Research staff collaboration</i></span>
 </p>
 
 <p align="center" style="color: #30363D; font-size: 1.5em;">━━━ ✧ ━━━</p>
