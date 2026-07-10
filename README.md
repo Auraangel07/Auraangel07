@@ -2,108 +2,128 @@
   <img src="https://github.com/Auraangel07/Auraangel07/blob/main/assets/Angel%20Suri%20(1).png?raw=true" width="100%" height="170px" alt="Angel Suri Banner"/>
 </p>
 
-<h1 align="center" style="color:#FFD700; font-family:Georgia;">Angel</h1>
+<h1 align="center">Angel Suri</h1>
 
 <p align="center">
-  <img src="https://github.com/Auraangel07/Auraangel07/blob/main/assets/elegant_octocat.png?raw=true" width="170px" alt="Elegant Octocat" />
-  <br>
-  <i style="color:#B33A3A;">Elegant Octocat: always dressed for success, always ready for a bold code move.</i>
+  <b>Cartographer of Complexity</b><br>
+  <i>Patterns in the noise.</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DATA%20ALCHEMY-181818?style=for-the-badge&logo=data&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/AI%20CHAOS-B33A3A?style=for-the-badge&logo=openai&logoColor=FFD700" />
-  <img src="https://img.shields.io/badge/VINTAGE%20CODER-50c878?style=for-the-badge&logo=code&logoColor=181818" />
-  <img src="https://img.shields.io/badge/SASSY%20ENGINEER-f5f5dc?style=for-the-badge&logo=star&logoColor=B33A3A" />
+  <img src="https://img.shields.io/badge/DATA%20ALCHEMY-181818?style=for-the-badge&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/AI%20RESEARCH-B33A3A?style=for-the-badge&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/FULL--STACK%20BUILDER-50c878?style=for-the-badge&logoColor=181818" />
+  <img src="https://img.shields.io/badge/ORIGINAL%20CONCEPTS-f5f5dc?style=for-the-badge&logoColor=B33A3A" />
 </p>
 
 <p align="center">
-  <b style="color:#FFD700; font-size:1.15em;">
-    Data • AI • Chaos Alchemy — infusing code with bold, vintage vibes.
-  </b>
-</p>
-
-<p align="center" style="color:#FFD700; font-size:1.5em;">━━━✧━━━</p>
-
-<h2 align="center"><span style="color:#FFD700;">Tech Stack</span></h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=181818" title="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-B33A3A?style=for-the-badge&logo=typescript&logoColor=FFD700" title="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=FFD700" title="JavaScript"/>
-  <img src="https://img.shields.io/badge/C++-50c878?style=for-the-badge&logo=cplusplus&logoColor=181818" title="C++"/>
-  <img src="https://img.shields.io/badge/Java-f5f5dc?style=for-the-badge&logo=java&logoColor=B33A3A" title="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-B33A3A?style=for-the-badge&logo=html5&logoColor=FFD700" title="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-FFD700?style=for-the-badge&logo=css3&logoColor=181818" title="CSS3"/>
-  <img src="https://img.shields.io/badge/React-181818?style=for-the-badge&logo=react&logoColor=FFD700" title="React"/>
-  <img src="https://img.shields.io/badge/Node.js-50c878?style=for-the-badge&logo=nodedotjs&logoColor=181818" title="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-f5f5dc?style=for-the-badge&logo=express&logoColor=B33A3A" title="Express"/>
-  <img src="https://img.shields.io/badge/Redux-B33A3A?style=for-the-badge&logo=redux&logoColor=FFD700" title="Redux"/>
-  <img src="https://img.shields.io/badge/Pandas-FFD700?style=for-the-badge&logo=pandas&logoColor=181818" title="Pandas"/>
-  <img src="https://img.shields.io/badge/Numpy-50c878?style=for-the-badge&logo=numpy&logoColor=181818" title="Numpy"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-181818?style=for-the-badge&logo=scikit-learn&logoColor=FFD700" title="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-B33A3A?style=for-the-badge&logo=tensorflow&logoColor=FFD700" title="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-f5f5dc?style=for-the-badge&logo=keras&logoColor=B33A3A" title="Keras"/>
-  <img src="https://img.shields.io/badge/OpenAI-181818?style=for-the-badge&logo=openai&logoColor=FFD700" title="OpenAI"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=181818" title="HuggingFace"/>
-  <img src="https://img.shields.io/badge/Django-50c878?style=for-the-badge&logo=django&logoColor=181818" title="Django"/>
-  <img src="https://img.shields.io/badge/Flask-B33A3A?style=for-the-badge&logo=flask&logoColor=FFD700" title="Flask"/>
-  <img src="https://img.shields.io/badge/MongoDB-181818?style=for-the-badge&logo=mongodb&logoColor=FFD700" title="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=181818" title="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-f5f5dc?style=for-the-badge&logo=mysql&logoColor=B33A3A" title="MySQL"/>
-  <img src="https://img.shields.io/badge/Redis-50c878?style=for-the-badge&logo=redis&logoColor=181818" title="Redis"/>
-  <img src="https://img.shields.io/badge/AWS-FFD700?style=for-the-badge&logo=amazonaws&logoColor=181818" title="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-B33A3A?style=for-the-badge&logo=docker&logoColor=FFD700" title="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=FFD700" title="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-FFD700?style=for-the-badge&logo=visualstudiocode&logoColor=181818" title="VS Code"/>
-  <img src="https://img.shields.io/badge/Power%20BI-50c878?style=for-the-badge&logo=powerbi&logoColor=181818" title="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-f5f5dc?style=for-the-badge&logo=tableau&logoColor=B33A3A" title="Tableau"/>
-  <img src="https://img.shields.io/badge/Excel-B33A3A?style=for-the-badge&logo=microsoftexcel&logoColor=FFD700" title="Excel"/>
-  <img src="https://img.shields.io/badge/Streamlit-FFD700?style=for-the-badge&logo=streamlit&logoColor=181818" title="Streamlit"/>
-  <img src="https://img.shields.io/badge/FastAPI-50c878?style=for-the-badge&logo=fastapi&logoColor=181818" title="FastAPI"/>
-  <img src="https://img.shields.io/badge/GraphQL-f5f5dc?style=for-the-badge&logo=graphql&logoColor=B33A3A" title="GraphQL"/>
-  <img src="https://img.shields.io/badge/Git-181818?style=for-the-badge&logo=git&logoColor=FFD700" title="Git"/>
-  <img src="https://img.shields.io/badge/Bootstrap-B33A3A?style=for-the-badge&logo=bootstrap&logoColor=FFD700" title="Bootstrap"/>
-  <img src="https://img.shields.io/badge/SASS-FFD700?style=for-the-badge&logo=sass&logoColor=181818" title="SASS"/>
-  <img src="https://img.shields.io/badge/Jupyter-50c878?style=for-the-badge&logo=jupyter&logoColor=181818" title="Jupyter"/>
+  Final-year CSE student · Data Science · Machine Learning · Full-Stack Development<br>
+  Building things that don't exist yet. Finding patterns before they have names.
 </p>
 
 <p align="center" style="color:#FFD700; font-size:1.5em;">━━━✧━━━</p>
 
-<h2 align="center"><span style="color:#FFD700;">Featured Projects</span></h2>
+<h2 align="center">🔭 Currently Building</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <b>⬛ PATTERN ZERO</b><br>
+      <i>Financial AI Research Ecosystem</i><br><br>
+      A self-directed 17-project research architecture spanning six intelligence modules —
+      STRATUM · THE CALCULUS · ORACLE · DARK MATTER · SINGULARITY · ZERO POINT.<br><br>
+      Infrastructure: TimescaleDB · Redis · Apache Airflow · Docker
+    </td>
+    <td align="center" width="50%" valign="top">
+      <b>⚡ INFLECTION</b><br>
+      <i>Convergence Intelligence Engine</i><br><br>
+      Original research concept. Detects mathematical convergence of weak signals
+      across unrelated domains to surface emergent market trends before they are
+      visible in financial data — anchored by a novel <i>Convergence Coefficient</i> metric.<br><br>
+      <i>Finding the pattern before the pattern has a name.</i>
+    </td>
+  </tr>
+</table>
+
+<p align="center" style="color:#FFD700; font-size:1.5em;">━━━✧━━━</p>
+
+<h2 align="center">🛠 What I've Actually Shipped</h2>
 
 <p align="center">
   <a href="https://github.com/Auraangel07/Mindmirror">
-    <img src="https://img.shields.io/badge/MINDMIRROR-B33A3A?style=for-the-badge&logo=python&logoColor=FFD700" />
+    <img src="https://img.shields.io/badge/MINDMIRROR-B33A3A?style=for-the-badge&logoColor=FFD700" />
   </a>
   <br>
-  <i style="color:#50c878;">Enter the Interview Multiverse — face AI video agents in wild simulated worlds, unlock skills, and master interviews like a game.</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Auraangel07/Parthvortex">
-    <img src="https://img.shields.io/badge/PARTHVORTEX-50c878?style=for-the-badge&logo=react&logoColor=181818" />
-  </a>
-</p>
-
-<p align="center">
+  <i>AI-powered interview simulation platform · Video agents · Real-time ML feedback · Gamified skill development</i><br><br>
   <a href="https://github.com/Auraangel07/Customer-Churn-Prediction-Telecom-">
-    <img src="https://img.shields.io/badge/Customer%20Churn%20Prediction-B33A3A?style=for-the-badge&logo=python&logoColor=FFD700" />
+    <img src="https://img.shields.io/badge/CRIS-181818?style=for-the-badge&logoColor=FFD700" />
   </a>
-  <a href="https://github.com/Auraangel07/Internshiptask8">
-    <img src="https://img.shields.io/badge/Internship%20Task%208-181818?style=for-the-badge&logo=data&logoColor=FFD700" />
+  <br>
+  <i>Customer Retention Intelligence System · XGBoost · 81.5% accuracy · 7,043 records · Power BI dashboard</i><br><br>
+  <a href="https://github.com/Auraangel07/Parthvortex">
+    <img src="https://img.shields.io/badge/PATHVORTEXX-50c878?style=for-the-badge&logoColor=181818" />
   </a>
-  <a href="https://github.com/Auraangel07/internshiptask7">
-    <img src="https://img.shields.io/badge/Internship%20Task%207-50c878?style=for-the-badge&logo=analytics&logoColor=181818" />
-  </a>
-  <a href="https://github.com/Auraangel07/internshiptask6">
-    <img src="https://img.shields.io/badge/Internship%20Task%206-f5f5dc?style=for-the-badge&logo=flask&logoColor=B33A3A" />
-  </a>
+  <br>
+  <i>Data navigation system · Python · Plotly · D3.js · Large-scale pattern recognition</i><br><br>
+  <img src="https://img.shields.io/badge/CLINICAL%20ASSESSMENT%20PLATFORM-f5f5dc?style=for-the-badge&logoColor=B33A3A" />
+  <br>
+  <i>Built @ NRSC · Next.js App Router · Multi-role portals · RBAC · Research staff collaboration</i>
 </p>
 
 <p align="center" style="color:#FFD700; font-size:1.5em;">━━━✧━━━</p>
 
-<h2 align="center"><span style="color:#FFD700;">GitHub Stats</span></h2>
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/TypeScript-B33A3A?style=for-the-badge&logo=typescript&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/C++-50c878?style=for-the-badge&logo=cplusplus&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/Java-f5f5dc?style=for-the-badge&logo=java&logoColor=B33A3A"/>
+  <img src="https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=181818"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-181818?style=for-the-badge&logo=nextdotjs&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/React-B33A3A?style=for-the-badge&logo=react&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Node.js-50c878?style=for-the-badge&logo=nodedotjs&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/Express-f5f5dc?style=for-the-badge&logo=express&logoColor=B33A3A"/>
+  <img src="https://img.shields.io/badge/FastAPI-FFD700?style=for-the-badge&logo=fastapi&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/Django-50c878?style=for-the-badge&logo=django&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/Flask-B33A3A?style=for-the-badge&logo=flask&logoColor=FFD700"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-181818?style=for-the-badge&logo=scikit-learn&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/XGBoost-FFD700?style=for-the-badge&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/TensorFlow-B33A3A?style=for-the-badge&logo=tensorflow&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Keras-f5f5dc?style=for-the-badge&logo=keras&logoColor=B33A3A"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/OpenAI-50c878?style=for-the-badge&logo=openai&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/Pandas-181818?style=for-the-badge&logo=pandas&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/NumPy-B33A3A?style=for-the-badge&logo=numpy&logoColor=FFD700"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TimescaleDB-181818?style=for-the-badge&logo=timescale&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Redis-B33A3A?style=for-the-badge&logo=redis&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/MongoDB-50c878?style=for-the-badge&logo=mongodb&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/MySQL-f5f5dc?style=for-the-badge&logo=mysql&logoColor=B33A3A"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-FFD700?style=for-the-badge&logo=apacheairflow&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/Docker-B33A3A?style=for-the-badge&logo=docker&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/AWS-181818?style=for-the-badge&logo=amazonaws&logoColor=FFD700"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-FFD700?style=for-the-badge&logo=powerbi&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/Tableau-50c878?style=for-the-badge&logo=tableau&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/Streamlit-B33A3A?style=for-the-badge&logo=streamlit&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Jupyter-f5f5dc?style=for-the-badge&logo=jupyter&logoColor=B33A3A"/>
+  <img src="https://img.shields.io/badge/Git-181818?style=for-the-badge&logo=git&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=181818"/>
+  <img src="https://img.shields.io/badge/VS%20Code-50c878?style=for-the-badge&logo=visualstudiocode&logoColor=181818"/>
+</p>
+
+<p align="center" style="color:#FFD700; font-size:1.5em;">━━━✧━━━</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Auraangel07&theme=gruvbox" alt="GitHub streak" />
@@ -111,40 +131,38 @@
 
 <p align="center" style="color:#FFD700; font-size:1.5em;">━━━✧━━━</p>
 
-<h2 align="center"><span style="color:#FFD700;">Fun Facts</span></h2>
+<h2 align="center">🗺 The Cartographer's Notes</h2>
 
-<p align="center" style="color:#FFD700;">
-  <b>Why do programmers prefer dark mode?</b> Because light attracts bugs! <br><br>
-  My IDE is probably sassier than yours.<br>
-  I code with one hand, coffee in the other.<br>
-  I make data talk—and sometimes it sings.<br>
-  Ideathon wins, hackathon records, and always a good plot twist (in code and in life).<br>
+<p align="center">
+  <i>
+    I don't just analyse data — I map it.<br>
+    Every dataset has a shape. Every system has a hidden order.<br>
+    Every pattern has a zero point — the moment before anyone noticed.<br><br>
+    I build toward that moment.
+  </i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Auraangel07/Auraangel07/blob/main/assets/elegant_octocat.png?raw=true" width="130px" alt="Elegant Octocat"/>
   <br>
-  <img src="https://github.com/Auraangel07/Auraangel07/blob/main/assets/elegant_octocat.png?raw=true" width="100px" alt="Elegant Octocat Fun Mascot" />
+  <i>Always dressed for success. Always ready for a bold code move.</i>
 </p>
 
 <p align="center" style="color:#FFD700; font-size:1.5em;">━━━✧━━━</p>
 
-<h2 align="center"><span style="color:#FFD700;">Connect With Me</span></h2>
+<h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/angel-suri-89a01a278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/angel-suri-89a01a278">
     <img src="https://img.shields.io/badge/LinkedIn-181818?logo=linkedin&logoColor=FFD700&style=for-the-badge" />
   </a>
   <a href="mailto:suriangel2547@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-B33A3A?logo=gmail&logoColor=FFD700&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-50c878?logo=twitter&logoColor=181818&style=for-the-badge" />
-  </a>
 </p>
-
-<p align="center" style="margin-top:10px;"><i>Ready for the next bold move? So am I. Let’s build, break, and rebuild—until data glows.</i></p>
 
 <p align="center">
-  <img src="https://github.com/Auraangel07/Auraangel07/blob/main/assets/cute_octocat.png?raw=true" width="130px" alt="Cute Octocat" />
-  <br>
-  <i style="color:#50c878;">Cute Octocat: The playful sidekick—bringing good vibes, fresh ideas, and a little bit of magic to every repo.</i>
+  <i>Not just talking. Building.</i> 🖤
 </p>
 
-<p align="center" style="color:#FFD700;">━━━★━━━━</p>
+<p align="center">━━━★━━━━</p>
